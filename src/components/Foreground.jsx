@@ -10,7 +10,7 @@ function Foreground() {
             desc: "This is the background color of the card that will be displayed.",
             filesize: ".9mb", close: true, tag: {
                 isOpen: true,
-                tagTitle: "Download Now", tagColor: "blue"
+                tagTitle: "Download Now", tagColor: "green"
             },
 
 
@@ -29,7 +29,7 @@ function Foreground() {
         {
             desc: "This is the background color of the card that will be displayed.",
             filesize: ".9mb", close: true, tag: {
-                isOpen: true,
+                isOpen: false,
                 tagTitle: "Upload", tagColor: "green"
             },
 
